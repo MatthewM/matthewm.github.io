@@ -1,1 +1,19 @@
-
+iv {
+  width: 300px;
+  border: 2px solid grey;
+  padding: 13px;
+  margin: 20px;
+}
+.coolblue {
+  text-align: left;
+}
+.pink {
+  text-align: center;
+  vertical-align: sub;
+}
+.mintgreen {
+  text-align: right;
+}
+.beige {
+  text-align: left;
+}
