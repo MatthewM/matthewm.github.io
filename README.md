@@ -6,7 +6,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@400;700&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="./stylesheet.css">
+<link rel="stylesheet" href="https://github.com/MatthewM/matthewm.github.io/blob/d3a6e8c68abb61292097b9e6a5dcb13993c080ca/stylesheet.css">
   </head>
   <body>
     <h1>My Website Style Guide</h1>
